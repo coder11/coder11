@@ -14,6 +14,6 @@ Here are some major open-source contributions I'm proud of:
 
 ### 📬 Contacts
 
-- **Resume** [In markdown](resume.md) [In pdf](https://github.com/coder11/coder11/raw/main/resume/paul_murygin_resume.pdf) [In docx](https://github.com/coder11/coder11/raw/main/resume/paul_murygin_resume.docx)
+- **Resume** [In markdown](resume.md) | [pdf](https://github.com/coder11/coder11/raw/main/resume/paul_murygin_resume.pdf) | [docx](https://github.com/coder11/coder11/raw/main/resume/paul_murygin_resume.docx)
 - **Email:** [pavel.murygin@gmail.com](mailto:pavel.murygin@gmail.com)
 - **Telegram:** [t.me/readeval](https://t.me/readeval)
